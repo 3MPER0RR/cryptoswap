@@ -140,14 +140,4 @@ Known HTLC attack vectors worth being aware of:
 
 ---
 
-## Roadmap
-
-- [ ] Electrum plugin — native UI tab inside Electrum wallet
-- [ ] P2P layer (libp2p) — find counterparties without a central server
-- [ ] Bitcoin spending transaction — native claim/refund via Bitcoin Script
-- [ ] Tor hidden service — globally accessible, censorship-resistant
-- [ ] Multi-asset support (ETH native, other ERC-20 tokens)
-
----
-
 *Zero external dependencies on the core engine. Portable. No-KYC. No server.*
